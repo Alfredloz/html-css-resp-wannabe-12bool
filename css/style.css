@@ -16,6 +16,9 @@ h3 {
    padding: 30px;
  }
  @media all and (min-width: 769px) and (max-width: 1200px){
+   [class*="col-"] p  {
+     height: 200px;
+   }
  }
 @media all and (max-width: 768px){
   .container {
